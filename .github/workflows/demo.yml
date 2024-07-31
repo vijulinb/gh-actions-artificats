@@ -1,4 +1,4 @@
-name: Deploy websitess
+name: Deploying websitess
 on:
   push:
     branches:
