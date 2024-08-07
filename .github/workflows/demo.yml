@@ -2,7 +2,7 @@ name: Deploying websitess
 on:
   push:
     branches:
-      - master
+      - feature
 jobs:
   test:
     runs-on: ubuntu-latest
